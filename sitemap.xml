@@ -2,10 +2,35 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://piipi.com/categories/</loc>
+    <loc>https://piipi.com/</loc>
+    <lastmod>2024-09-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://piipi.com/</loc>
+    <loc>https://piipi.com/categories/</loc>
+    <lastmod>2024-09-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://piipi.com/tags/</loc>
+    <loc>https://piipi.com/p/test-chinese/</loc>
+    <lastmod>2024-09-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://piipi.com/post/</loc>
+    <lastmod>2024-09-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://piipi.com/categories/%E6%B5%8B%E8%AF%95/</loc>
+    <lastmod>2024-09-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://piipi.com/archives/</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://piipi.com/page/</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://piipi.com/links/</loc>
+  </url><url>
+    <loc>https://piipi.com/search/</loc>
+  </url><url>
+    <loc>https://piipi.com/tags/</loc>
+  </url><url>
+    <loc>https://piipi.com/categories/test/</loc>
+  </url><url>
+    <loc>https://piipi.com/%E5%85%B3%E4%BA%8E/</loc>
   </url>
 </urlset>

@@ -2,9 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Categories on Piipi Blog</title>
-        <link>http://piipi.com/categories/</link>
+        <link>https://piipi.com/categories/</link>
         <description>Recent content in Categories on Piipi Blog</description>
         <generator>Hugo -- gohugo.io</generator>
-        <language>zh-cn</language><atom:link href="http://piipi.com/categories/index.xml" rel="self" type="application/rss+xml" />
+        <language>zh-cn</language>
+        <copyright>Piipi</copyright>
+        <lastBuildDate>Fri, 06 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://piipi.com/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>测试</title>
+        <link>https://piipi.com/categories/%E6%B5%8B%E8%AF%95/</link>
+        <pubDate>Fri, 06 Sep 2024 00:00:00 +0000</pubDate>
+        
+        <guid>https://piipi.com/categories/%E6%B5%8B%E8%AF%95/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Test</title>
+        <link>https://piipi.com/categories/test/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://piipi.com/categories/test/</guid>
+        <description>&lt;img src="https://piipi.com/categories/test/hutomo-abrianto-l2jk-uxb1BY-unsplash.jpg" alt="Featured image of post Test" /&gt;</description>
+        </item>
+        
     </channel>
 </rss>

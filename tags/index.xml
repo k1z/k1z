@@ -2,9 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Tags on Piipi Blog</title>
-        <link>http://piipi.com/tags/</link>
+        <link>https://piipi.com/tags/</link>
         <description>Recent content in Tags on Piipi Blog</description>
         <generator>Hugo -- gohugo.io</generator>
-        <language>zh-cn</language><atom:link href="http://piipi.com/tags/index.xml" rel="self" type="application/rss+xml" />
+        <language>zh-cn</language>
+        <copyright>Piipi</copyright><atom:link href="https://piipi.com/tags/index.xml" rel="self" type="application/rss+xml" />
     </channel>
 </rss>
